@@ -3,6 +3,7 @@
 只有一个文件YBJSon文件，里面包涵了需要的所有方法；
 
 例子里面有主要的使用方法，方法名都是非常好识别的；
+
 /** 将模型转成字典 */
 - (NSDictionary *)convertModelToDictionary;
 
