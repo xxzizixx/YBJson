@@ -1,4 +1,4 @@
-# YBJson （https://github.com/xxzizixx/YBJson）
+# YBJson  https://github.com/xxzizixx/YBJson
 字典转模型的小框架，使用只需要导入YBJson即可；
 只有一个文件YBJSon文件，里面包涵了需要的所有方法；
 
